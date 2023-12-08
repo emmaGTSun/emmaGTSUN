@@ -20,23 +20,26 @@
 ## Tech Stack
 
  Here's a quick list of the technologies I work with:
+ ### Languages
 
- 
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=007396)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Python](https://img.shields.io/badge/Python-05122A.svg?style=for-the-badge&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/-JavaScript%20-05122A.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=7952B3)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=F05032)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=for-the-badge&logo=gitlab)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
+### Technologies & Tools
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=spring-boot)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js&logoColor=4FC08D)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=092E20)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 
 
 ## GitHub Analytics
