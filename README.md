@@ -7,15 +7,9 @@
 </p>
 
 ## 🤖 About Me:
-
-- 🔭 I am currently studying for a Masters in Computing and IT Management at Cardiff University.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭  I am currently pursuing a Master's degree in Computing and IT Management at Cardiff University.
+- 🌱 I have a penchant for challenges, a passion for technology, and an eagerness for all things novel, always keeping the spirit of learning alive.
+- 👯 In my leisure, I take delight in travelling, engaging in sports, and producing videos.
 
 ## Tech Stack
 
@@ -37,21 +31,16 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?&logo=spring-boot)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-000?&logo=vue.js&logoColor=4FC08D)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django&logoColor=092E20)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=postman)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 
 
 ## GitHub Analytics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
-
-
-
-## What I'm Up To
-###
 
 ![](https://github-readme-stats.vercel.app/api?username=emmaGTSUN&show_icons=true&theme=tokyonight)
 
