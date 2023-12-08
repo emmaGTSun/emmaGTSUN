@@ -40,9 +40,11 @@
 
 
 ## GitHub Analytics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emmaGTSUN&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=emmaGTSUN&show_icons=true&theme=tokyonight)
+
+
 
 <!-- Icons for tech stack can be added with direct image URLs or using markdown shields. -->
 <!-- Make sure to replace '#' with the actual URL or path to your contact page, résumé, and icons. -->
