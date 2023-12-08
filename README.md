@@ -21,6 +21,8 @@
 
  Here's a quick list of the technologies I work with:
 
+ 
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=007396)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Python](https://img.shields.io/badge/Python-05122A.svg?style=for-the-badge&logo=python&logoColor=3776AB)
