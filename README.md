@@ -18,8 +18,8 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Currently pursuing MSc in Computing and IT Management at **Cardiff University**  
-- 🌱 Passionate about **software engineering**, **AI**, and **cloud technologies**  
+- 🎓 MSc in Computing and IT Management at **Cardiff University**  
+- 🌱 Passionate about **software engineering**
 - ✨ I enjoy solving real-world problems with clean code and elegant design  
 - 📹 Outside work, I love **traveling**, **sports**
 
