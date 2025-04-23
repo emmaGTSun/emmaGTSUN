@@ -9,8 +9,8 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/EmmaSun">
-    <img src="[https://img.shields.io/badge/-Emma%20Sun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/emmgtsun/)"/>
+  <a href="https://www.linkedin.com/in/emma-guangtian-sun-480498289/">
+    <img src="https://img.shields.io/badge/-Emma%20Sun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 - 🎓 Currently pursuing MSc in Computing and IT Management at **Cardiff University**  
 - 🌱 Passionate about **software engineering**, **AI**, and **cloud technologies**  
 - ✨ I enjoy solving real-world problems with clean code and elegant design  
-- 📹 Outside work, I love **traveling**, **sports**, and creating **YouTube videos**
+- 📹 Outside work, I love **traveling**, **sports**
 
 ---
 
