@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/EmmaSun">
-    <img src="https://img.shields.io/badge/-Emma%20Sun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="[https://img.shields.io/badge/-Emma%20Sun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/emmgtsun/)"/>
   </a>
 </p>
 
