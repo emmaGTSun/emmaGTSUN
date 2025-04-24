@@ -1,7 +1,7 @@
 <h1 align="center"><b> Hi, I'm Emma </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-🌍 Full-Stack Developer | 🎓 MSc Computing & IT Management @ Cardiff University | 🚀 Lifelong Learner  
+🌍 Web Developer | 🎓 MSc Computing & IT Management @ Cardiff University | 🚀 Lifelong Learner  
 </p>
 
 ---
